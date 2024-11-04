@@ -1,3 +1,4 @@
+constole.log("Welcome to the Bakery Store!");
 //storename//
 //const storename = "Bakery Store";
 //store type//
@@ -27,4 +28,3 @@
 //console.log(product4, price4);
 //console.log(product5, price5);
 //console.log(storeHours);
-constole.log("Welcome to the Bakery Store!");
